@@ -1,22 +1,25 @@
 /*******************************************************************************
- System Interrupts File
+  TMR Peripheral Library Interface Source File
 
-  Company:
+  Company
     Microchip Technology Inc.
 
-  File Name:
-    interrupt.h
+  File Name
+    plib_tmr3.c
 
-  Summary:
-    Interrupt vectors mapping
+  Summary
+    TMR3 peripheral library source file.
 
-  Description:
-    This file contains declarations of device vectors used by Harmony 3
- *******************************************************************************/
+  Description
+    This file implements the interface to the TMR peripheral library.  This
+    library provides access to and control of the associated peripheral
+    instance.
+
+*******************************************************************************/
 
 // DOM-IGNORE-BEGIN
 /*******************************************************************************
-* Copyright (C) 2018 Microchip Technology Inc. and its subsidiaries.
+* Copyright (C) 2019 Microchip Technology Inc. and its subsidiaries.
 *
 * Subject to your compliance with these terms, you may use Microchip software
 * and any derivatives exclusively with Microchip products. It is your
@@ -36,36 +39,85 @@
 * FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
 * ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
 * THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
- *******************************************************************************/
+*******************************************************************************/
 // DOM-IGNORE-END
 
-#ifndef INTERRUPTS_H
-#define INTERRUPTS_H
 
 // *****************************************************************************
 // *****************************************************************************
 // Section: Included Files
 // *****************************************************************************
 // *****************************************************************************
-#include <stdint.h>
+
+#include "device.h"
+#include "plib_tmr3.h"
+#include "interrupts.h"
 
 
 
-// *****************************************************************************
-// *****************************************************************************
-// Section: Handler Routines
-// *****************************************************************************
-// *****************************************************************************
 
-void SPI1_RX_InterruptHandler( void );
-void SPI1_TX_InterruptHandler( void );
-void DMA0_InterruptHandler( void );
-void DMA1_InterruptHandler( void );
-void SPI2_RX_InterruptHandler( void );
-void SPI2_TX_InterruptHandler( void );
-void SPI3_RX_InterruptHandler( void );
-void SPI3_TX_InterruptHandler( void );
+void TMR3_Initialize(void)
+{
+    /* Disable Timer */
+    T3CONCLR = _T3CON_ON_MASK;
+
+    /*
+    SIDL = 0
+    TCKPS =7
+    T32   = 0
+    TCS = 0
+    */
+    T3CONSET = 0x70;
+
+    /* Clear counter */
+    TMR3 = 0x0;
+
+    /*Set period */
+    PR3 = 58592U;
+
+
+}
+
+
+void TMR3_Start(void)
+{
+    T3CONSET = _T3CON_ON_MASK;
+}
+
+
+void TMR3_Stop (void)
+{
+    T3CONCLR = _T3CON_ON_MASK;
+}
+
+void TMR3_PeriodSet(uint16_t period)
+{
+    PR3  = period;
+}
+
+uint16_t TMR3_PeriodGet(void)
+{
+    return (uint16_t)PR3;
+}
+
+uint16_t TMR3_CounterGet(void)
+{
+    return (uint16_t)(TMR3);
+}
+
+
+uint32_t TMR3_FrequencyGet(void)
+{
+    return (390625);
+}
 
 
 
-#endif // INTERRUPTS_H
+bool TMR3_PeriodHasExpired(void)
+{
+    bool status;
+        status = (IFS0bits.T3IF != 0U);
+        IFS0CLR = _IFS0_T3IF_MASK;
+
+    return status;
+}

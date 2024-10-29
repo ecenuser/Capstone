@@ -69,6 +69,7 @@
 void SPI1_RX_Handler (void);
 void SPI1_TX_Handler (void);
 void DMA0_Handler (void);
+void DMA1_Handler (void);
 void SPI2_RX_Handler (void);
 void SPI2_TX_Handler (void);
 void SPI3_RX_Handler (void);
@@ -93,6 +94,11 @@ void __ISR(_SPI1_TX_VECTOR, ipl1SRS) SPI1_TX_Handler (void)
 void __ISR(_DMA0_VECTOR, ipl1SRS) DMA0_Handler (void)
 {
     DMA0_InterruptHandler();
+}
+
+void __ISR(_DMA1_VECTOR, ipl1SRS) DMA1_Handler (void)
+{
+    DMA1_InterruptHandler();
 }
 
 void __ISR(_SPI2_RX_VECTOR, ipl1SRS) SPI2_RX_Handler (void)

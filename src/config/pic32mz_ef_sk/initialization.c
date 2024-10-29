@@ -210,9 +210,9 @@ void SYS_Initialize ( void* data )
 
     ADCHS_Initialize();
 
-    TMR3_Initialize();
-
 	SPI3_Initialize();
+
+    TMR3_Initialize();
 
     DMAC_Initialize();
 

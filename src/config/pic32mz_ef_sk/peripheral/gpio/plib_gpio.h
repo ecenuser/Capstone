@@ -62,6 +62,24 @@
 // *****************************************************************************
 
 
+/*** Macros for WASss2out pin ***/
+#define WASss2out_Set()               (LATCSET = (1U<<2))
+#define WASss2out_Clear()             (LATCCLR = (1U<<2))
+#define WASss2out_Toggle()            (LATCINV= (1U<<2))
+#define WASss2out_OutputEnable()      (TRISCCLR = (1U<<2))
+#define WASss2out_InputEnable()       (TRISCSET = (1U<<2))
+#define WASss2out_Get()               ((PORTC >> 2) & 0x1U)
+#define WASss2out_PIN                  GPIO_PIN_RC2
+
+/*** Macros for GPIO_RD9 pin ***/
+#define GPIO_RD9_Set()               (LATDSET = (1U<<9))
+#define GPIO_RD9_Clear()             (LATDCLR = (1U<<9))
+#define GPIO_RD9_Toggle()            (LATDINV= (1U<<9))
+#define GPIO_RD9_OutputEnable()      (TRISDCLR = (1U<<9))
+#define GPIO_RD9_InputEnable()       (TRISDSET = (1U<<9))
+#define GPIO_RD9_Get()               ((PORTD >> 9) & 0x1U)
+#define GPIO_RD9_PIN                  GPIO_PIN_RD9
+
 
 // *****************************************************************************
 /* GPIO Port
