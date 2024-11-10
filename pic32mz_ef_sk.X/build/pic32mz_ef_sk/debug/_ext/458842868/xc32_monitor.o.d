@@ -14,6 +14,7 @@ build/pic32mz_ef_sk/debug/_ext/458842868/xc32_monitor.o: \
  ../src/config/pic32mz_ef_sk/peripheral/evic/plib_evic.h \
  ../src/config/pic32mz_ef_sk/peripheral/dmac/plib_dmac.h \
  ../src/config/pic32mz_ef_sk/peripheral/spi/spi_master/plib_spi2_master.h \
+ ../src/config/pic32mz_ef_sk/peripheral/spi/spi_master/plib_spi1_master.h \
  ../src/config/pic32mz_ef_sk/peripheral/uart/plib_uart6.h \
  ../src/config/pic32mz_ef_sk/peripheral/uart/plib_uart_common.h
 
@@ -44,6 +45,8 @@ build/pic32mz_ef_sk/debug/_ext/458842868/xc32_monitor.o: \
 ../src/config/pic32mz_ef_sk/peripheral/dmac/plib_dmac.h:
 
 ../src/config/pic32mz_ef_sk/peripheral/spi/spi_master/plib_spi2_master.h:
+
+../src/config/pic32mz_ef_sk/peripheral/spi/spi_master/plib_spi1_master.h:
 
 ../src/config/pic32mz_ef_sk/peripheral/uart/plib_uart6.h:
 
