@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERA-3AEB201V
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=4.2
+Released=2023-03-07 09:33:50
+Downloaded=2024-10-18 21:23:23
+3D=Y

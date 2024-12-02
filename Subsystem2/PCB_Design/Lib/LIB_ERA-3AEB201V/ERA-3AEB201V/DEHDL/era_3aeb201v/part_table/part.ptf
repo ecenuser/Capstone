@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERA_3AEB201V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERA-3AEB201V" (!) = "", "ERA3AEB101V", "Other", "667-ERA-3AEB201V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AEB201V?qs=XhO1W%252B5LdJ8wKRfVTWbMaA%3D%3D", "Metal Thin Film Chip Resistor, 0603, 0.1W", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf", "0.55 mm"
+END_PART
+
+END.

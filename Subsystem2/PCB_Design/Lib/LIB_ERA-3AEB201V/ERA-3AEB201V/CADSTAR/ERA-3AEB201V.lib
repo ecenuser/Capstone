@@ -1,0 +1,16 @@
+.ERA-3AEB201V :1 ;Metal Thin Film Chip Resistor, 0603, 0.1W
+ERA3AEB101V
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ERA-3AEB201V
+~!Mouser Part Number (667-ERA-3AEB201V)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3AEB201V?qs=XhO1W%252B5LdJ8wKRfVTWbMaA%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (ERA-3AEB201V)
+~!Link Datasheet (https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf)
+~!Height (0.55mm)
+~!3D_Model (ERA-3AEB201V)
+ERA-3AEB201V
+1.1!U 2.1!U 
