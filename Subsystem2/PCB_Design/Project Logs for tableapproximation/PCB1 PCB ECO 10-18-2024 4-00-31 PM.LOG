@@ -1,0 +1,455 @@
+Change Component Footprint: Designator=C21 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C22 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C24 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C25 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C31 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C32 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C39 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C41 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C52 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C53 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C55 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C56 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C62 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C63 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C70 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C72 Old Footprint=CERAMIC_0805 New Footprint=C_0805
+Change Component Footprint: Designator=C5 Old Footprint=Ceramic_1206 New Footprint=C_1206
+Change Component Footprint: Designator=U4 Old Footprint=FP-DDA0008B-MFG New Footprint=FP-DDA0008B-MFG
+Change Component Footprint: Designator=U3 Old Footprint=FP-TO263-5LD-PL-1-MFG New Footprint=FP-TO263-5LD-PL-1-MFG
+Change Component Footprint: Designator=R9 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R11 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R18 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R19 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R24 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R25 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R29 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R36 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R40 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R45 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R47 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R54 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R55 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R60 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R61 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R65 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R72 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R76 Old Footprint=R_0402 New Footprint=Res_0603
+Change Component Footprint: Designator=R1 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R2 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R4 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R6 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R12 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R14 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R22 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R30 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R32 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R33 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R38 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R42 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R48 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R50 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R58 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R66 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R68 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R69 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Footprint: Designator=R74 Old Footprint=R_0603 New Footprint=Res_0603
+Change Component Description : Designator=R4 Old Description= New Description=ERA-3ARW432V
+Change Component Library : Designator=C1 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C5 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C21 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C22 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C24 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C25 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C31 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C32 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C39 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C41 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C52 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C53 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C55 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C56 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C62 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C63 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C70 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=C72 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R1 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R2 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R3 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R4 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R6 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R7 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R8 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R9 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R10 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R11 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R12 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R13 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R14 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R15 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R17 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R18 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R19 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R20 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R21 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R22 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R23 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R24 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R25 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R26 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R27 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R28 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R29 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R30 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R31 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R32 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R33 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R35 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R36 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R37 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R38 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R39 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R40 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R41 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R42 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R43 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R44 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R45 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R46 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R47 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R48 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R49 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R50 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R51 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R53 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R54 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R55 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R56 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R57 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R58 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R59 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R60 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R61 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R62 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R63 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R64 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R65 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R66 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R67 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R68 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R69 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R71 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R72 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R73 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R74 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R75 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R76 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change Component Library : Designator=R77 Old Library=Schlib1.SchLib New Library=Schlib1 (1).SchLib
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Tant_33uF"; UniqueID = "\KHKKSVJS" ("\KHKKSVJS")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "74-TX3B336K016C1000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Ceramic_1206"; UniqueID = "\DIEWLWQK" ("\DIEWLWQK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-KAM32LL81H475KU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CERAMIC_0805"; UniqueID = "\HXBRXYQG" ("\HXBRXYQG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CERAMIC_0805"; UniqueID = "\VEJDOIZI" ("\VEJDOIZI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CERAMIC_0805"; UniqueID = "\MKLKYPLE" ("\MKLKYPLE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CERAMIC_0805"; UniqueID = "\FCZXCDUN" ("\FCZXCDUN")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CERAMIC_0805"; UniqueID = "\DKGTSFDP" ("\DKGTSFDP")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CERAMIC_0805"; UniqueID = "\XDLSEYWR" ("\XDLSEYWR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C39"); Footprint = "CERAMIC_0805"; UniqueID = "\VXKHMIZL" ("\VXKHMIZL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "CERAMIC_0805"; UniqueID = "\JCVSZJQE" ("\JCVSZJQE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C52" ("C52"); Footprint = "CERAMIC_0805"; UniqueID = "\FYLZRAUV" ("\FYLZRAUV")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C53" ("C53"); Footprint = "CERAMIC_0805"; UniqueID = "\UOHGHCJX" ("\UOHGHCJX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C55" ("C55"); Footprint = "CERAMIC_0805"; UniqueID = "\ZYGOUOVB" ("\ZYGOUOVB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C56" ("C56"); Footprint = "CERAMIC_0805"; UniqueID = "\HQJAIANJ" ("\HQJAIANJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C62" ("C62"); Footprint = "CERAMIC_0805"; UniqueID = "\QUENGTZG" ("\QUENGTZG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C63" ("C63"); Footprint = "CERAMIC_0805"; UniqueID = "\XDSSFFJL" ("\XDSSFFJL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C70" ("C70"); Footprint = "CERAMIC_0805"; UniqueID = "\VMYQQOFZ" ("\VMYQQOFZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C72" ("C72"); Footprint = "CERAMIC_0805"; UniqueID = "\VOGTQCMG" ("\VOGTQCMG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "581-08053A202JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_0603"; UniqueID = "\BRZSHRKG" ("\BRZSHRKG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R_0603"; UniqueID = "\GQLPGDFT" ("\GQLPGDFT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R_0603"; UniqueID = "\COJXPYMQ" ("\COJXPYMQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "97AC0504"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R_0603"; UniqueID = "\QDKNANPX" ("\QDKNANPX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3ARW432V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R_0603"; UniqueID = "\BWTTQHWW" ("\BWTTQHWW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R_0603"; UniqueID = "\XGLUKCHG" ("\XGLUKCHG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R_0603"; UniqueID = "\DRQWCTDJ" ("\DRQWCTDJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R_0402"; UniqueID = "\XMQNLVFB" ("\XMQNLVFB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R_0603"; UniqueID = "\ZDQSANGE" ("\ZDQSANGE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R_0402"; UniqueID = "\NMVPCVBY" ("\NMVPCVBY")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R_0603"; UniqueID = "\ODCFTBHY" ("\ODCFTBHY")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R_0603"; UniqueID = "\MNETIFEO" ("\MNETIFEO")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R_0603"; UniqueID = "\JQLYEHXK" ("\JQLYEHXK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "R_0603"; UniqueID = "\FKOYKMQL" ("\FKOYKMQL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "R_0603"; UniqueID = "\XIKXKYUT" ("\XIKXKYUT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "R_0402"; UniqueID = "\TBCETUJR" ("\TBCETUJR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "R_0402"; UniqueID = "\DPJFVEQL" ("\DPJFVEQL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "R_0603"; UniqueID = "\CKTBJJIL" ("\CKTBJJIL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "R_0603"; UniqueID = "\PVNACEQC" ("\PVNACEQC")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "R_0603"; UniqueID = "\HUTJJZKA" ("\HUTJJZKA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "R_0603"; UniqueID = "\ASHXQEYQ" ("\ASHXQEYQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "R_0402"; UniqueID = "\UWAPTHVZ" ("\UWAPTHVZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "R_0402"; UniqueID = "\REIOECXH" ("\REIOECXH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "R_0603"; UniqueID = "\QQEDTGUI" ("\QQEDTGUI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "R_0603"; UniqueID = "\KFPCWLLK" ("\KFPCWLLK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "R_0603"; UniqueID = "\NDSGAQKS" ("\NDSGAQKS")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "R_0402"; UniqueID = "\WDAWGFXN" ("\WDAWGFXN")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "R_0603"; UniqueID = "\WYUMAWEU" ("\WYUMAWEU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "R_0603"; UniqueID = "\FJIVYCWD" ("\FJIVYCWD")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "R_0603"; UniqueID = "\OALYAEAR" ("\OALYAEAR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "R_0603"; UniqueID = "\USFVCEFI" ("\USFVCEFI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "R_0603"; UniqueID = "\AQHDMDDC" ("\AQHDMDDC")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "R_0402"; UniqueID = "\ASTDRJDG" ("\ASTDRJDG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "R_0603"; UniqueID = "\POMSDPJG" ("\POMSDPJG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "R_0603"; UniqueID = "\PVNDPDEY" ("\PVNDPDEY")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "R_0603"; UniqueID = "\VMAJPCLE" ("\VMAJPCLE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "R_0402"; UniqueID = "\XDAYHVBV" ("\XDAYHVBV")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "R_0603"; UniqueID = "\QSQEQQUP" ("\QSQEQQUP")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "R_0603"; UniqueID = "\VCEEDEDY" ("\VCEEDEDY")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "R_0603"; UniqueID = "\MILIOQNR" ("\MILIOQNR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "R_0603"; UniqueID = "\SDZCVSCQ" ("\SDZCVSCQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "R_0402"; UniqueID = "\BEERKMTR" ("\BEERKMTR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "R_0603"; UniqueID = "\RMHMCMWE" ("\RMHMCMWE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "R_0402"; UniqueID = "\EYVICEJN" ("\EYVICEJN")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48" ("R48"); Footprint = "R_0603"; UniqueID = "\PMOKXKNH" ("\PMOKXKNH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "R_0603"; UniqueID = "\NMPMOEBU" ("\NMPMOEBU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "R_0603"; UniqueID = "\EXBABJFF" ("\EXBABJFF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R51" ("R51"); Footprint = "R_0603"; UniqueID = "\EAWXECZI" ("\EAWXECZI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "R_0603"; UniqueID = "\CKPIXTVL" ("\CKPIXTVL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54" ("R54"); Footprint = "R_0402"; UniqueID = "\KIJGUIXA" ("\KIJGUIXA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55" ("R55"); Footprint = "R_0402"; UniqueID = "\OVXPWHEL" ("\OVXPWHEL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56" ("R56"); Footprint = "R_0603"; UniqueID = "\YOLVTNSF" ("\YOLVTNSF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R57" ("R57"); Footprint = "R_0603"; UniqueID = "\IHJBTIJX" ("\IHJBTIJX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R58" ("R58"); Footprint = "R_0603"; UniqueID = "\BIFDHABS" ("\BIFDHABS")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R59" ("R59"); Footprint = "R_0603"; UniqueID = "\IRCJMRKO" ("\IRCJMRKO")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R60" ("R60"); Footprint = "R_0402"; UniqueID = "\RKKIJJDT" ("\RKKIJJDT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61" ("R61"); Footprint = "R_0402"; UniqueID = "\IVYVMYZJ" ("\IVYVMYZJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R62" ("R62"); Footprint = "R_0603"; UniqueID = "\XRSOUFUW" ("\XRSOUFUW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R63" ("R63"); Footprint = "R_0603"; UniqueID = "\FMMBFLIJ" ("\FMMBFLIJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R64" ("R64"); Footprint = "R_0603"; UniqueID = "\CTKHLBLK" ("\CTKHLBLK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R65" ("R65"); Footprint = "R_0402"; UniqueID = "\SMFZUAZR" ("\SMFZUAZR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R66" ("R66"); Footprint = "R_0603"; UniqueID = "\JSSCUTIH" ("\JSSCUTIH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R67" ("R67"); Footprint = "R_0603"; UniqueID = "\GXCUZXBW" ("\GXCUZXBW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R68" ("R68"); Footprint = "R_0603"; UniqueID = "\XKDGWGSF" ("\XKDGWGSF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R69" ("R69"); Footprint = "R_0603"; UniqueID = "\RATSNJYP" ("\RATSNJYP")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R71" ("R71"); Footprint = "R_0603"; UniqueID = "\HRKOLXWA" ("\HRKOLXWA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R72" ("R72"); Footprint = "R_0402"; UniqueID = "\RENVVWEC" ("\RENVVWEC")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R73" ("R73"); Footprint = "R_0603"; UniqueID = "\SECIHQPE" ("\SECIHQPE")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R74" ("R74"); Footprint = "R_0603"; UniqueID = "\WHXMZZKB" ("\WHXMZZKB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-3AED472V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R75" ("R75"); Footprint = "R_0603"; UniqueID = "\HDLKXSBV" ("\HDLKXSBV")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R76" ("R76"); Footprint = "R_0402"; UniqueID = "\ICNRTEUZ" ("\ICNRTEUZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-2VRB1002X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R77" ("R77"); Footprint = "R_0603"; UniqueID = "\PINEDNRI" ("\PINEDNRI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "5134876"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Component: Footprint Not Found CAPPM6032X280N
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin C58-1
+Add Pin To Net: Unknown Pin: Pin C58-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C68-1
+Add Pin To Net: Unknown Pin: Pin C68-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Class Member: Failed to add class member : Component C27 10 uF
+Add Class Member: Failed to add class member : Component C33 10 uF
+Add Class Member: Failed to add class member : Component C37 10 uF
+Add Class Member: Failed to add class member : Component C42 10 uF
+Add Class Member: Failed to add class member : Component C58 10 uF
+Add Class Member: Failed to add class member : Component C64 10 uF
+Add Class Member: Failed to add class member : Component C68 10 uF

@@ -1,0 +1,178 @@
+Removed Parameter ComponentLink1Description:New link from Part C2
+Removed Parameter ComponentLink1Description:New link from Part C3
+Removed Parameter ComponentLink1Description:New link from Part C4
+Removed Parameter ComponentLink1Description:New link from Part C20
+Removed Parameter ComponentLink1Description:New link from Part C29
+Removed Parameter ComponentLink1Description:New link from Part C51
+Removed Parameter ComponentLink1Description:New link from Part C60
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C2
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C3
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C4
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C20
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C29
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C51
+Removed Parameter ComponentLink1URL:https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAF21KR71E105KU?qs=sGAEpiMZZMuMW9TJLBQkXqLYvz3DzaXfb92J4aJdY3Y%3D> from Part C60
+Change Component Parameter Comment in C2 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C2 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C3 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C3 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C4 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C4 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C9 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C10 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C11 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C12 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C14 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C15 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C18 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C18 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C19 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C19 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C20 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C20 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C23 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C23 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C26 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C26 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C28 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C29 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C29 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C30 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C34 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C35 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C35 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C36 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C38 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C40 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C43 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C44 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C45 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C46 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C47 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C48 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C48 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C49 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C50 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C50 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C51 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C51 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C54 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C54 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C57 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C57 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C59 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C60 Old= New=08053C105K4Z2A
+Change Component Parameter Description in C60 Old=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V KAF21KR71E105KU New=Automotive Ceramic Capacitor, 0805, 1uF, 10%, X7R, 15%, 25V
+Change Component Parameter Comment in C61 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C65 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C66 Old= New=GCM188R71C104KA37J
+Change Component Parameter Description in C66 Old=GCM188R71C104KA37J New=
+Change Component Parameter Comment in C67 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C69 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in C71 Old= New=GCM188R71C104KA37J
+Change Component Parameter Comment in J1 Old= New=1729128
+Change Component Parameter Comment in J3 Old= New=1729128
+Change Component Parameter Comment in J4 Old= New=1729128
+Change Component Parameter Comment in J5 Old= New=1729128
+Change Component Parameter Comment in J6 Old= New=1729128
+Change Component Parameter Comment in J7 Old= New=1729128
+Change Component Parameter Comment in J9 Old= New=1729128
+Change Component Parameter Comment in J10 Old= New=1729128
+Change Component Parameter Comment in J11 Old= New=1729128
+Change Component Parameter Comment in J12 Old= New=1729128
+Change Component Parameter Comment in J13 Old= New=1729128
+Change Component Parameter Comment in L1 Old= New=CBC2518T331K
+Change Component Parameter Description in L1 Old=SMD Inductors 330uH ±10% 0.09A 15.99O 1007 CBC2518T331K New=SMD Inductors 330uH ±10% 0.09A 15.99O 1007
+Change Component Parameter Comment in R16 Old= New=CRCW0603200RFKEA
+Change Component Parameter Description in R16 Old=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603 CRCW0603200RFKEA New=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603
+Change Component Parameter Comment in R34 Old= New=CRCW0603200RFKEA
+Change Component Parameter Description in R34 Old=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603 CRCW0603200RFKEA New=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603
+Change Component Parameter Comment in R52 Old= New=CRCW0603200RFKEA
+Change Component Parameter Description in R52 Old=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603 CRCW0603200RFKEA New=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603
+Change Component Parameter Comment in R70 Old= New=CRCW0603200RFKEA
+Change Component Parameter Description in R70 Old=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603 CRCW0603200RFKEA New=RES Thick Film, 200O, 1%, 0.1W, 100ppm/°C, 0603
+Replace Symbol from C2 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C3 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C4 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C9 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C10 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C11 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C12 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C14 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C15 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C18 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C19 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C20 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C23 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C26 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C28 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C29 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C30 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C34 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C35 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C36 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C38 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C40 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C43 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C44 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C45 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C46 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C47 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C48 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C49 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C50 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C51 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C54 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C57 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C59 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C60 b4654b650e69147ec39a6b967a45e02 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with b4654b650e69147ec39a6b967a45e02 from Altium Content Vault
+Replace Symbol from C61 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C65 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C66 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C67 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C69 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from C71 CAP in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CAP from Altium Content Vault
+Replace Symbol from D1 ONSC-D-K1A2-2_A in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with ONSC-D-K1A2-2_A from Altium Content Vault
+Replace Symbol from J1 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J3 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J4 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J5 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J6 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J7 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J9 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J10 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J11 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J12 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from J13 CN-2P-F-R2 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with CN-2P-F-R2 from Altium Content Vault
+Replace Symbol from L1 725321dda6339637d4d059423bc1c3c in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 725321dda6339637d4d059423bc1c3c from Altium Content Vault
+Replace Symbol from R16 1029c3af85768c4190bb7ad29bc67b5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 1029c3af85768c4190bb7ad29bc67b5 from Altium Content Vault
+Replace Symbol from R34 1029c3af85768c4190bb7ad29bc67b5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 1029c3af85768c4190bb7ad29bc67b5 from Altium Content Vault
+Replace Symbol from R52 1029c3af85768c4190bb7ad29bc67b5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 1029c3af85768c4190bb7ad29bc67b5 from Altium Content Vault
+Replace Symbol from R70 1029c3af85768c4190bb7ad29bc67b5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 1029c3af85768c4190bb7ad29bc67b5 from Altium Content Vault
+Replace Symbol from U1 PM-LINEREG-MCP1725-IL8 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with PM-LINEREG-MCP1725-IL8 from Altium Content Vault
+Replace Symbol from U2 TI-REF5025D8 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-REF5025D8 from Altium Content Vault
+Replace Symbol from U3 7c4a2ddf1cb1e41cce6a082e49e9a8b in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 7c4a2ddf1cb1e41cce6a082e49e9a8b from Altium Content Vault
+Replace Symbol from U4 8440d1df3ffc80b6784136f9d9b9714 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 8440d1df3ffc80b6784136f9d9b9714 from Altium Content Vault
+Replace Symbol from U5 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U6 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U9 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U10 0b71721c18a3d644b86e220c7038018 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 0b71721c18a3d644b86e220c7038018 from Altium Content Vault
+Replace Symbol from U12 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U14 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U17 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U18 TI-DAC8830_EP-D8 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-DAC8830_EP-D8 from Altium Content Vault
+Replace Symbol from U19 TI-OPA-8_1 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-OPA-8_1 from Altium Content Vault
+Replace Symbol from U20 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U22 TI-DAC8830_EP-D8 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-DAC8830_EP-D8 from Altium Content Vault
+Replace Symbol from U23 TI-OPA-8_1 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-OPA-8_1 from Altium Content Vault
+Replace Symbol from U24 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U27 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U28 0b71721c18a3d644b86e220c7038018 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with 0b71721c18a3d644b86e220c7038018 from Altium Content Vault
+Replace Symbol from U30 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U32 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U35 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U36 TI-DAC8830_EP-D8 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-DAC8830_EP-D8 from Altium Content Vault
+Replace Symbol from U37 TI-OPA-8_1 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-OPA-8_1 from Altium Content Vault
+Replace Symbol from U38 TI-AMP-S3-2-5 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-AMP-S3-2-5 from Altium Content Vault
+Replace Symbol from U40 TI-DAC8830_EP-D8 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-DAC8830_EP-D8 from Altium Content Vault
+Replace Symbol from U41 TI-OPA-8_1 in C:\Senior\404_project\Schematic1_PCBr4.SchDoc with TI-OPA-8_1 from Altium Content Vault

@@ -1,0 +1,53 @@
+Added Component: Designator=J14(Breakout_con3pin)
+Added Component: Designator=J15(Breakout_con3pin)
+Added Component: Designator=J16(Breakout_con4pin)
+Added Component: Designator=J17(Breakout_con3pin)
+Added Component: Designator=J18(Breakout_con3pin)
+Added Component: Designator=J19(Breakout_con3pin)
+Added Component: Designator=J20(Breakout_con3pin)
+Added Component: Designator=J21(Breakout_con4pin)
+Added Component: Designator=J22(Breakout_con3pin)
+Added Component: Designator=J23(Breakout_con3pin)
+Added Pin To Net: NetName=SCLK1_S1 Pin=J14-1
+Added Pin To Net: NetName=MISO1_S1 Pin=J14-2
+Added Pin To Net: NetName=~SS1_S1 Pin=J14-3
+Added Pin To Net: NetName=SCLK2_S2 Pin=J15-1
+Added Pin To Net: NetName=MISO2_S2 Pin=J15-2
+Added Pin To Net: NetName=~SS2_S2 Pin=J15-3
+Added Pin To Net: NetName=Vshunt_S1_P Pin=J16-1
+Added Pin To Net: NetName=Vshunt_S1_N Pin=J16-2
+Added Pin To Net: NetName=Vshunt_S2_P Pin=J16-3
+Added Pin To Net: NetName=Vshunt_S2_N Pin=J16-4
+Added Pin To Net: NetName=SCLK4_S2 Pin=J17-1
+Added Pin To Net: NetName=MOSI4_S2 Pin=J17-2
+Added Pin To Net: NetName=~SS4_S2 Pin=J17-3
+Added Pin To Net: NetName=SCLK3_S1 Pin=J18-1
+Added Pin To Net: NetName=MOSI3_S1 Pin=J18-2
+Added Pin To Net: NetName=~SS3_S1 Pin=J18-3
+Added Pin To Net: NetName=SCLK1_S3 Pin=J19-1
+Added Pin To Net: NetName=MISO1_S3 Pin=J19-2
+Added Pin To Net: NetName=~SS1_S3 Pin=J19-3
+Added Pin To Net: NetName=SCLK2_S4 Pin=J20-1
+Added Pin To Net: NetName=MISO2_S4 Pin=J20-2
+Added Pin To Net: NetName=~SS2_S4 Pin=J20-3
+Added Pin To Net: NetName=Vshunt_S3_P Pin=J21-1
+Added Pin To Net: NetName=Vshunt_S3_N Pin=J21-2
+Added Pin To Net: NetName=Vshunt_S4_P Pin=J21-3
+Added Pin To Net: NetName=Vshunt_S4_N Pin=J21-4
+Added Pin To Net: NetName=SCLK4_S4 Pin=J22-1
+Added Pin To Net: NetName=MOSI4_S4 Pin=J22-2
+Added Pin To Net: NetName=~SS4_S4 Pin=J22-3
+Added Pin To Net: NetName=SCLK3_S3 Pin=J23-1
+Added Pin To Net: NetName=MOSI3_S3 Pin=J23-2
+Added Pin To Net: NetName=~SS3_S3 Pin=J23-3
+Change Class Name : Old Net Name=Schematic1_PCBr6 New Net Name=Schematic1_PCBr7
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J14 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J15 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J16 Breakout4
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J17 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J18 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J19 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J20 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J21 Breakout4
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J22 Breakout3
+Added Member To Class: ClassName=Schematic1_PCBr7 Member=Component J23 Breakout3

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U3-6
+Removed Pin From Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=Thermal Pin=U3-6
+Added Pin To Net: NetName=Thermal Pin=U4-9
+Added Net: Name=Thermal
